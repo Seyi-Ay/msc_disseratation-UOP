@@ -1,0 +1,235 @@
+country,continent,unMember
+India,Asia,TRUE
+China,Asia,TRUE
+United States,North America,TRUE
+Indonesia,Asia,TRUE
+Pakistan,Asia,TRUE
+Nigeria,Africa,TRUE
+Brazil,South America,TRUE
+Bangladesh,Asia,TRUE
+Russia,"Asia, Europe",TRUE
+Ethiopia,Africa,TRUE
+Mexico,North America,TRUE
+Japan,Asia,TRUE
+Philippines,Asia,TRUE
+Egypt,Africa,TRUE
+Democratic Republic of the Congo,Africa,TRUE
+Vietnam,Asia,TRUE
+Iran,Asia,TRUE
+Turkey,Asia,TRUE
+Germany,Europe,TRUE
+Thailand,Asia,TRUE
+Tanzania,Africa,TRUE
+United Kingdom,Europe,TRUE
+France,Europe,TRUE
+South Africa,Africa,TRUE
+Italy,Europe,TRUE
+Kenya,Africa,TRUE
+Myanmar,Asia,TRUE
+Colombia,South America,TRUE
+South Korea,Asia,TRUE
+Uganda,Africa,TRUE
+Sudan,Africa,TRUE
+Spain,Europe,TRUE
+Iraq,Asia,TRUE
+Algeria,Africa,TRUE
+Argentina,South America,TRUE
+Afghanistan,Asia,TRUE
+Poland,Europe,TRUE
+Canada,North America,TRUE
+Morocco,Africa,TRUE
+Ukraine,Europe,TRUE
+Angola,Africa,TRUE
+Saudi Arabia,Asia,TRUE
+Uzbekistan,Asia,TRUE
+Yemen,Asia,TRUE
+Mozambique,Africa,TRUE
+Ghana,Africa,TRUE
+Peru,South America,TRUE
+Malaysia,Asia,TRUE
+Nepal,Asia,TRUE
+Madagascar,Africa,TRUE
+Ivory Coast,Africa,TRUE
+Venezuela,South America,TRUE
+Cameroon,Africa,TRUE
+Niger,Africa,TRUE
+Australia,Oceania,TRUE
+North Korea,Asia,TRUE
+Syria,Asia,TRUE
+Mali,Africa,TRUE
+Taiwan,Asia,FALSE
+Burkina Faso,Africa,TRUE
+Sri Lanka,Asia,TRUE
+Malawi,Africa,TRUE
+Zambia,Africa,TRUE
+Kazakhstan,Asia,TRUE
+Chile,South America,TRUE
+Romania,Europe,TRUE
+Chad,Africa,TRUE
+Somalia,Africa,TRUE
+Ecuador,South America,TRUE
+Guatemala,North America,TRUE
+Senegal,Africa,TRUE
+Netherlands,Europe,TRUE
+Cambodia,Asia,TRUE
+Zimbabwe,Africa,TRUE
+Guinea,Africa,TRUE
+Rwanda,Africa,TRUE
+Benin,Africa,TRUE
+Burundi,Africa,TRUE
+Bolivia,South America,TRUE
+Tunisia,Africa,TRUE
+Haiti,North America,TRUE
+Belgium,Europe,TRUE
+Dominican Republic,North America,TRUE
+Jordan,Asia,TRUE
+South Sudan,Africa,TRUE
+Cuba,North America,TRUE
+Honduras,North America,TRUE
+Sweden,Europe,TRUE
+Papua New Guinea,Oceania,TRUE
+Czech Republic,Europe,TRUE
+Azerbaijan,Asia,TRUE
+Tajikistan,Asia,TRUE
+Greece,Europe,TRUE
+Portugal,Europe,TRUE
+Hungary,Europe,TRUE
+United Arab Emirates,Asia,TRUE
+Belarus,Europe,TRUE
+Israel,Asia,TRUE
+Togo,Africa,TRUE
+Sierra Leone,Africa,TRUE
+Austria,Europe,TRUE
+Switzerland,Europe,TRUE
+Laos,Asia,TRUE
+Hong Kong,Asia,FALSE
+Nicaragua,North America,TRUE
+Serbia,Europe,TRUE
+Libya,Africa,TRUE
+Paraguay,South America,TRUE
+Kyrgyzstan,Asia,TRUE
+Bulgaria,Europe,TRUE
+Turkmenistan,Asia,TRUE
+El Salvador,North America,TRUE
+Congo,Africa,TRUE
+Singapore,Asia,TRUE
+Denmark,Europe,TRUE
+Central Africa Republic,Africa,TRUE
+Slovakia,Europe,TRUE
+Finland,Europe,TRUE
+Liberia,Africa,TRUE
+Norway,Europe,TRUE
+Palestinian Territory,Asia,TRUE
+New Zealand,Oceania,TRUE
+Costa Rica,North America,TRUE
+Lebanon,Asia,TRUE
+Ireland,Europe,TRUE
+Mauritania,Africa,TRUE
+Oman,Asia,TRUE
+Panama,North America,TRUE
+Kuwait,Asia,TRUE
+Croatia,Europe,TRUE
+Eritrea,Africa,TRUE
+Georgia,Asia,TRUE
+Mongolia,Asia,TRUE
+Uruguay,South America,TRUE
+Moldova,Europe,TRUE
+Puerto Rico,North America,FALSE
+Bosnia and Herzegovina,Europe,TRUE
+Gambia,Africa,TRUE
+Albania,Europe,TRUE
+Jamaica,North America,TRUE
+Armenia,Asia,TRUE
+Qatar,Asia,TRUE
+Botswana,Africa,TRUE
+Lithuania,Europe,TRUE
+Namibia,Africa,TRUE
+Gabon,Africa,TRUE
+Lesotho,Africa,TRUE
+Guinea-Bissau,Africa,TRUE
+Slovenia,Europe,TRUE
+Macedonia,Europe,TRUE
+Latvia,Europe,TRUE
+Equatorial Guinea,Africa,TRUE
+Trinidad and Tobago,North America,TRUE
+Bahrain,Asia,TRUE
+East Timor,Asia,TRUE
+Estonia,Europe,TRUE
+Mauritius,Africa,TRUE
+Cyprus,Europe,TRUE
+Swaziland,Africa,TRUE
+Djibouti,Africa,TRUE
+Reunion,Africa,FALSE
+Fiji,Oceania,TRUE
+Comoros,Africa,TRUE
+Guyana,South America,TRUE
+Bhutan,Asia,TRUE
+Solomon Islands,Oceania,TRUE
+Macau,Asia,FALSE
+Luxembourg,Europe,TRUE
+Suriname,South America,TRUE
+Montenegro,Europe,TRUE
+Cape Verde,Africa,TRUE
+Western Sahara,Africa,FALSE
+Malta,Europe,TRUE
+Maldives,Asia,TRUE
+Brunei,Asia,TRUE
+Belize,North America,TRUE
+Bahamas,North America,TRUE
+Guadeloupe,North America,FALSE
+Iceland,Europe,TRUE
+Martinique,North America,FALSE
+Mayotte,Africa,FALSE
+Vanuatu,Oceania,TRUE
+French Guiana,South America,FALSE
+French Polynesia,Oceania,FALSE
+New Caledonia,Oceania,FALSE
+Barbados,North America,TRUE
+Sao Tome and Principe,Africa,TRUE
+Samoa,Oceania,TRUE
+Cura ao,North America,FALSE
+Saint Lucia,North America,TRUE
+Guam,Oceania,FALSE
+Kiribati,Oceania,TRUE
+Grenada,North America,TRUE
+Micronesia,Oceania,TRUE
+Jersey,Europe,FALSE
+Tonga,Oceania,TRUE
+Seychelles,Africa,TRUE
+Aruba,North America,FALSE
+Saint Vincent Grenadines,North America,TRUE
+U S Virgin Islands,North America,FALSE
+Antigua Barbuda,North America,TRUE
+Isle of Man,Europe,FALSE
+Andorra,Europe,TRUE
+Dominica,North America,TRUE
+Cayman Islands,North America,FALSE
+Bermuda,North America,FALSE
+Guernsey,Europe,FALSE
+Greenland,North America,FALSE
+Faroe Islands,Europe,FALSE
+Northern Mariana Islands,Oceania,FALSE
+Saint Kitts and Nevis,North America,TRUE
+Turks Caicos Islands,North America,FALSE
+St Maarten,North America,FALSE
+American Samoa,Oceania,FALSE
+Marshall Islands,Oceania,TRUE
+Liechtenstein,Europe,TRUE
+Monaco,Europe,TRUE
+San Marino,Europe,TRUE
+Gibraltar,Europe,FALSE
+Saint Martin,North America,FALSE
+British Virgin Islands,North America,FALSE
+Palau,Oceania,TRUE
+Cook Islands,Oceania,FALSE
+Anguilla,North America,FALSE
+Nauru,Oceania,TRUE
+Tuvalu,Oceania,TRUE
+Wallis and Futuna,Oceania,FALSE
+Saint Barts,North America,FALSE
+St Pierre and Miquelon,North America,FALSE
+Montserrat,North America,FALSE
+Falkland Islands Malvinas,South America,FALSE
+Niue,Oceania,FALSE
+Tokelau,Oceania,FALSE
+Vatican City,Europe,TRUE
